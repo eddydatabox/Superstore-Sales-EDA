@@ -1,4 +1,5 @@
 # Superstore-Sales-EDA
+![](https://github.com/eddydatabox/Superstore-Sales-EDA/blob/main/Data/storegif.jpg)
 
 ## Objective
 The main objective of this exploratory data analysis is to get an undertanding of the following business :
