@@ -1,10 +1,10 @@
 # Superstore-Sales-EDA
 
 ## Objective
-The main objective of this exploratory data analysis is to get an undertanding of thee following business :
+The main objective of this exploratory data analysis is to get an undertanding of the following business :
 - who and where customers are coming.
-- get metrics on business operations and processes
-- identify opportunities to reduce operational costs
+- what are main parts of business generating revenues.
+- identify opportunities to reduce operational costs.
 
 
 The code and suppoting work for this analysis can be found the jupyeter notebook [here.](https://github.com/eddydatabox/Superstore-Sales-EDA/blob/main/SuperStore-Exploratory-data-analysis.ipynb)
