@@ -2,7 +2,7 @@
 ![](https://github.com/eddydatabox/Superstore-Sales-EDA/blob/main/Data/storegif.jpg)
 
 ## Objective
-The main objective of this exploratory data analysis is to get an undertanding of the questions :
+The main objective of this exploratory data analysis was to try to answer the following business questions :
 - who and where customers are coming from.
 - what are main parts of business generating revenues.
 - identify opportunities to reduce operational costs.
